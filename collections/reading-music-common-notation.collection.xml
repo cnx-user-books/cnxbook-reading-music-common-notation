@@ -1,0 +1,42 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10209</md:content-id>
+    <md:title>Reading Music: Common Notation</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>894c9499-5c91-4d1c-a108-32ae3788d4aa</md:uuid>
+<md:slug>reading-music-common-notation</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m43040"/>
+    <col:subcollection>
+      <md:title>Pitch</md:title>
+      <col:content>
+        <col:module document="m10880"/>
+        <col:module document="m10941"/>
+        <col:module document="m10943"/>
+        <col:module document="m10881"/>
+        <col:module document="m11641"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Time</md:title>
+      <col:content>
+        <col:module document="m10945"/>
+        <col:module document="m11887"/>
+        <col:module document="m10956"/>
+        <col:module document="m12717"/>
+        <col:module document="m11888"/>
+        <col:module document="m11648"/>
+        <col:module document="m12805"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Style</md:title>
+      <col:content>
+        <col:module document="m11649"/>
+        <col:module document="m11884"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
